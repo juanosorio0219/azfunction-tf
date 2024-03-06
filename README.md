@@ -11,4 +11,3 @@
 
 ### Resources
 <img width="1257" alt="Screenshot 2024-03-06 at 8 53 49 AM" src="https://github.com/juanosorio0219/azfunction-tf/assets/80568091/2fe68edd-8d80-4be6-bdd9-9f0d817b9426">
->>>>>>> 14b20add9a223defe3ca986912c75ea319dd1697
